@@ -24,4 +24,7 @@ A simple snake game written in Rust using Piston as the graphics library.
 18. When the head block of the snake collides with any other of it's blocks. The game ends.
 19. When the head block collides with the wall the game ends.
 20. Starting menu has 3 buttons for difficulty. As well as an exit button. 
-21. Upon game over game goes back to main menu. 
+21. Upon game over game the game freezes and displays "Game Over" at the top and "Press any Key to go to menu at the bottom. This allows player to take pictures of their achievement. When player presses a key it goes back to main menu.
+22. You cannot win the game because the snake is you and the game is life 😢
+
+
